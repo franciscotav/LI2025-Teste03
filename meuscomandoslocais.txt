@@ -1,0 +1,10 @@
+    1  git clone https://github.com/franciscotav/LI2025-Teste03.git
+    2  git add .
+    3  cd LI2025-Teste03/
+    4  git add .
+    5  git commit -m "Tarefa 3"
+    6  git push origin main
+    7  git add .
+    8  git commit -m "4ª tarefa"
+    9  git push origin main
+   10  history > meuscomandoslocais.txt
